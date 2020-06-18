@@ -1,1 +1,1 @@
-This repository is a demonstration associated with a Git crash course taught for the first time in June 2020
+This repository is a demonstration associated with a Git crash course taught for the first time in June 18, 2020
