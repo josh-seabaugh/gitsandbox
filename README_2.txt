@@ -1,0 +1,1 @@
+This is an example text for learning purposes, June, 2020.
